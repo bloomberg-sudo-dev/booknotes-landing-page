@@ -196,14 +196,27 @@ export default function WaitlistPage() {
           <div className="flex justify-center mb-20">
             <div className="max-w-4xl">
               <Image
-                src="/demo_booknotes (1).png"
-                alt="BookNotes app demo showing book list and sign-in screens"
-                width={1200}
-                height={800}
+                src="/BookNotes.jpg"
+                alt="BookNotes app demo showing book list"
+                width={600}
+                height={400}
                 className="drop-shadow-xl rounded-lg"
               />
             </div>
           </div>
+
+          {/* App Mockup Preview */}
+            <div className="flex justify-center mb-20">
+              <div className="max-w-4xl">
+                <Image
+                  src="/BookNotes sign in.jpg"
+                  alt="BookNotes app demo showing sign-in screen"
+                  width={600}
+                  height={400}
+                  className="drop-shadow-xl rounded-lg"
+                />
+              </div>
+            </div>
 
           
 
