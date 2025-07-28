@@ -198,15 +198,15 @@ export default function WaitlistPage() {
               <Image
                 src="/BookNotes.jpg"
                 alt="BookNotes app demo showing book list"
-                width={300}
-                height={200}
+                width=(400}
+                height={300}
                 className="drop-shadow-xl rounded-lg"
               />
               <Image
                 src="/BookNotes sign in.jpg"
                 alt="BookNotes app demo showing sign-in screen"
-                width={300}
-                height={200}
+                width={400}
+                height={300}
                 className="drop-shadow-xl rounded-lg"
               />
             </div>
