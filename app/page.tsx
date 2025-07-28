@@ -192,9 +192,9 @@ export default function WaitlistPage() {
         </div>
       </main>
 
-          {/* App Mockup Preview */}
+          {/* App Mockup Previews - Side by Side */}
           <div className="flex justify-center mb-20">
-            <div className="max-w-4xl">
+            <div className="flex gap-6 max-w-6xl">
               <Image
                 src="/BookNotes.jpg"
                 alt="BookNotes app demo showing book list"
@@ -202,21 +202,15 @@ export default function WaitlistPage() {
                 height={400}
                 className="drop-shadow-xl rounded-lg"
               />
+              <Image
+                src="/BookNotes sign in.jpg"
+                alt="BookNotes app demo showing sign-in screen"
+                width={600}
+                height={400}
+                className="drop-shadow-xl rounded-lg"
+              />
             </div>
           </div>
-
-          {/* App Mockup Preview */}
-            <div className="flex justify-center mb-20">
-              <div className="max-w-4xl">
-                <Image
-                  src="/BookNotes sign in.jpg"
-                  alt="BookNotes app demo showing sign-in screen"
-                  width={600}
-                  height={400}
-                  className="drop-shadow-xl rounded-lg"
-                />
-              </div>
-            </div>
 
           
 
