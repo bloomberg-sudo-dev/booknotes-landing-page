@@ -61,7 +61,7 @@ export default function WaitlistPage() {
       <header className="px-6 py-8 text-center">
         <div className="flex items-center justify-center gap-2 mb-4">
           <BookOpen className="h-8 w-8" style={{ color: "#eb7373" }} />
-          <h1 className="text-3xl font-bold text-black">BookNotes</h1>
+          <h1 className="text-3xl font-bold text-black">BookMarks</h1>
         </div>
         {/*
         <p className="text-lg" style={{ color: "#eb7373" }}>
@@ -81,7 +81,7 @@ export default function WaitlistPage() {
               <span style={{ color: "#eb7373" }}>Experience</span>
             </h2>
             <p className="text-xl text-black mb-8 max-w-2xl mx-auto leading-relaxed">
-              Capture, organize, and rediscover your favorite passages with BookNotes. Never lose track of
+              Capture, organize, and rediscover your favorite passages with BookMarks. Never lose track of
               meaningful insights again.
             </p>
           </div>
@@ -137,7 +137,7 @@ export default function WaitlistPage() {
                       <CheckCircle className="h-20 w-20 mx-auto mb-6" style={{ color: "#eb7373" }} />
                       <h3 className="text-3xl font-bold text-black mb-3">You're In!</h3>
                       <p className="text-lg" style={{ color: "#eb7373" }}>
-                        Thanks for joining our waitlist. We'll notify you when BookNotes is ready!
+                        Thanks for joining our waitlist. We'll notify you when BookMarks is ready!
                       </p>
                     </div>
                   )}
@@ -219,7 +219,7 @@ export default function WaitlistPage() {
         className="text-center py-8 px-6 border-t bg-white/90"
         style={{ borderColor: "rgba(235, 115, 115, 0.2)" }}
       >
-        <p style={{ color: "#eb7373" }}>© 2025 BookNotes. Launching soon.</p>
+        <p style={{ color: "#eb7373" }}>© 2025 BookMarks. Launching soon.</p>
       </footer>
     </div>
   )
