@@ -196,14 +196,14 @@ export default function WaitlistPage() {
           <div className="flex justify-center mb-20">
             <div className="flex gap-6 max-w-6xl">
               <Image
-                src="/BookThreads sign up.jpg"
+                src="/BookThreads sign up.PNG"
                 alt="BookThreads app demo showing book list"
                 width={400}
                 height={300}
                 className="drop-shadow-xl rounded-lg"
               />
               <Image
-                src="/BookThreads books.jpg"
+                src="/BookThreads books.PNG"
                 alt="BookThreads app demo showing sign-in screen"
                 width={400}
                 height={300}
