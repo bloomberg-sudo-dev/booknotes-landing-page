@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: 'Created with v0',
   generator: 'v0.dev',
   icons: {
-    icon: '/BookNotes logo.png',
+    icon: '/BookThreads logo.png',
   },
 }
 
