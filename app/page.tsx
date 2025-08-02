@@ -198,7 +198,7 @@ export default function WaitlistPage() {
               <Image
                 src="/BookThreads sign up.jpg"
                 alt="BookThreads app demo showing book list"
-                width=(400}
+                width={400}
                 height={300}
                 className="drop-shadow-xl rounded-lg"
               />
