@@ -203,7 +203,7 @@ export default function WaitlistPage() {
                 className="drop-shadow-xl rounded-lg"
               />
               <Image
-                src="/BookThreads books.PNG"
+                src="/BookThreads books.jpeg"
                 alt="BookThreads app demo showing sign-in screen"
                 width={400}
                 height={300}
